@@ -1,0 +1,5 @@
+{
+    "webcredentials":{
+        "apps":["SE7JVR2RQ5.com.towords.master"] 
+    }
+}
